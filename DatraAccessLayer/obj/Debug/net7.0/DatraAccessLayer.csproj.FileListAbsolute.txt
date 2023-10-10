@@ -1,0 +1,14 @@
+A:\Pro_AspMvc\MvcAgain\DatraAccessLayer\bin\Debug\net7.0\DatraAccessLayer.deps.json
+A:\Pro_AspMvc\MvcAgain\DatraAccessLayer\bin\Debug\net7.0\DatraAccessLayer.dll
+A:\Pro_AspMvc\MvcAgain\DatraAccessLayer\bin\Debug\net7.0\DatraAccessLayer.pdb
+A:\Pro_AspMvc\MvcAgain\DatraAccessLayer\obj\Debug\net7.0\DatraAccessLayer.csproj.AssemblyReference.cache
+A:\Pro_AspMvc\MvcAgain\DatraAccessLayer\obj\Debug\net7.0\DatraAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+A:\Pro_AspMvc\MvcAgain\DatraAccessLayer\obj\Debug\net7.0\DatraAccessLayer.AssemblyInfoInputs.cache
+A:\Pro_AspMvc\MvcAgain\DatraAccessLayer\obj\Debug\net7.0\DatraAccessLayer.AssemblyInfo.cs
+A:\Pro_AspMvc\MvcAgain\DatraAccessLayer\obj\Debug\net7.0\DatraAccessLayer.csproj.CoreCompileInputs.cache
+A:\Pro_AspMvc\MvcAgain\DatraAccessLayer\obj\Debug\net7.0\DatraAccessLayer.dll
+A:\Pro_AspMvc\MvcAgain\DatraAccessLayer\obj\Debug\net7.0\refint\DatraAccessLayer.dll
+A:\Pro_AspMvc\MvcAgain\DatraAccessLayer\obj\Debug\net7.0\DatraAccessLayer.pdb
+A:\Pro_AspMvc\MvcAgain\DatraAccessLayer\obj\Debug\net7.0\ref\DatraAccessLayer.dll
+A:\Pro_AspMvc\MvcAgain\DatraAccessLayer\bin\Debug\net7.0\DatraAccessLayer.runtimeconfig.json
+A:\Pro_AspMvc\MvcAgain\DatraAccessLayer\obj\Debug\net7.0\DatraAccessLayer.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+A:\Pro_AspMvc\MvcAgain\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.deps.json
+A:\Pro_AspMvc\MvcAgain\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.dll
+A:\Pro_AspMvc\MvcAgain\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.pdb
+A:\Pro_AspMvc\MvcAgain\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.csproj.AssemblyReference.cache
+A:\Pro_AspMvc\MvcAgain\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+A:\Pro_AspMvc\MvcAgain\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.AssemblyInfoInputs.cache
+A:\Pro_AspMvc\MvcAgain\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.AssemblyInfo.cs
+A:\Pro_AspMvc\MvcAgain\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.csproj.CoreCompileInputs.cache
+A:\Pro_AspMvc\MvcAgain\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.dll
+A:\Pro_AspMvc\MvcAgain\BussinessLogicLayer\obj\Debug\net7.0\refint\BussinessLogicLayer.dll
+A:\Pro_AspMvc\MvcAgain\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.pdb
+A:\Pro_AspMvc\MvcAgain\BussinessLogicLayer\obj\Debug\net7.0\ref\BussinessLogicLayer.dll
